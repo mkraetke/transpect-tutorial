@@ -1,3 +1,12 @@
 [submodule "calabash"]
 	path = calabash
 	url = git@github.com:transpect/calabash-frontend.git
+[submodule "cascade"]
+	path = cascade
+	url = https://github.com/transpect/cascade
+[submodule "xproc-util"]
+	path = xproc-util
+	url = https://github.com/transpect/xproc-util
+[submodule "xslt-util"]
+	path = xslt-util
+	url = https://github.com/transpect/xslt-util
