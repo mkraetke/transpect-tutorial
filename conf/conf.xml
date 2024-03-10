@@ -1,0 +1,13 @@
+<?xml-model href="http://transpect.io/cascade/schema/transpect-conf.rng"?>
+<?xml-model href="http://transpect.io/cascade/schema/transpect-conf.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<conf xmlns="http://transpect.io"
+   content-base-uri="http://transpect.io/content-repo/"
+   paths-xsl-uri="http://this.transpect.io/a9s/deg/xsl/paths.xsl">
+  <cascade>
+    <reserved name="xpl"/>
+    <reserved name="xsl"/>
+    <clade name="deg" role="publisher">
+      <content role="production-line"/>
+    </clade>
+  </cascade>
+</conf>
