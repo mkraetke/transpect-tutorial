@@ -1,6 +1,6 @@
 [submodule "calabash"]
 	path = calabash
-	url = git@github.com:transpect/calabash-frontend.git
+	url = https://github.com/transpect/calabash-frontend
 [submodule "cascade"]
 	path = cascade
 	url = https://github.com/transpect/cascade
